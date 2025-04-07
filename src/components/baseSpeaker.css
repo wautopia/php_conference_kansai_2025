@@ -1,0 +1,12 @@
+.baseSpeaker {
+    gap: 15px;
+}
+
+.speakerImg {
+    border-radius: 50%;
+    border: 5px solid white;
+}
+
+.speakerName {
+    font-size: 2rem;
+}

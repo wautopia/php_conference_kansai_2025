@@ -1,0 +1,32 @@
+:root {
+  font-family: "FOT-UDMarugo_Large Pr6N U";
+  background: linear-gradient(to bottom, #96d114, #96D117, #46AA64 60%);
+  color: #FFFFFF;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+a {
+  color: #FFFFFF;
+}
+
+a:hover {
+  color: #FFFFFF;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  margin: 0;
+  font-weight: 900;
+  font-size: 7.2em;
+}

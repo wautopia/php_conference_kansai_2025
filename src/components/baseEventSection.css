@@ -1,0 +1,13 @@
+.eventTitle {
+    font-size: 1.3rem;
+}
+
+.eventExplanation {
+    padding: 5px 23px;
+}
+
+.eventImg {
+    position: absolute;
+    right: 3%;
+    bottom: 5%;
+}

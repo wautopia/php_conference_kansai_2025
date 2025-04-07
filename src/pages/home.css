@@ -1,0 +1,363 @@
+header {
+    background: #46AA64;
+    border-radius: 40px;
+    border-top-right-radius: 250px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 250px;
+
+    background-image: url("../assets/header_bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 3%;
+    height: 90vh;
+    background-position-y: -25%;
+}
+
+.letsDoPhp {
+    -webkit-text-stroke: 5px #1f793a;
+    text-stroke: 5px #46AA64;
+    text-shadow: 2px 6px 5px #2a380b;
+    text-align: left;
+    margin-left: 5%;
+}
+
+.exclamationMark {
+    display: inline-block;
+    transform: rotate(25deg);
+    margin-left: 30px;
+    -webkit-text-stroke: 5px #1f793a;
+    text-stroke: 5px #46AA64;
+    text-shadow: 2px 6px 5px #2a380b;
+}
+
+.conferenceName {
+    text-align: left;
+    margin-left: 5%;
+    margin-top: 1%;
+    font-size: 3rem;
+}
+
+.datePlace {
+    text-align: left;
+    margin-left: 5%;
+    margin-top: 2%;
+    font-size: 1.8rem;
+}
+
+.elemaru {
+
+    position: relative;
+    left: 19%;
+}
+
+.jumpToTicket {
+    position: absolute;
+    left: -18%;
+    bottom: 26%;
+    width: 100%;
+
+}
+
+.joinButton {
+    text-decoration: none;
+    font-size: 1.5rem;
+    width: 19%;
+    letter-spacing: 2px;
+    display: inline-block;
+    border-radius: 27px;
+    text-align: center;
+    padding: 12px 12px;
+    background: #FFFFFF;
+    text-shadow: -1px 0 #96d114, 1px 0 #96d114, 0 -1px #96d114, 0 1px #96d114
+}
+
+.ticketIcon {
+    margin-left: 7px;
+    vertical-align: text-top;
+}
+
+.header_bg {
+    width: 100%;
+    margin-top: 4%;
+}
+
+.pnpConferenceKansai2025 {
+    margin-top: 5%;
+    padding-right: 1%;
+    padding-bottom: 5%;
+    background-color: white;
+    border-top-left-radius: 250px;
+    border-bottom-right-radius: 250px;
+    border-bottom-left-radius: 40px;
+    border-top-right-radius: 40px;
+}
+
+.title {
+    color: #83f104;
+    padding-top: 3%;
+    line-height: 80%;
+    opacity: 0.2;
+}
+
+.aboutConference {
+    color: #2a380b;
+    margin-top: 5%;
+    font-size: 2rem;
+    line-height: 4rem;
+    text-align: left;
+    margin-left: 10%;
+}
+
+.imagePast {
+    margin-top: 6%;
+    outline: 15px solid rgba(169, 229, 29, 0.3);
+    outline-offset: -15px;
+    display: inline-flex;
+    border-radius: 30px;
+}
+
+.qualification {
+    color: #46AA64;
+    font-size: 2rem;
+    line-height: 4rem;
+    margin-top: 8%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.qualificationExplanation {
+    color: #2a380b;
+    text-align: left;
+    padding-left: 14%;
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+.eventSection {
+    margin-top: 8%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.oneSection {
+    width: 20%;
+    background-color: #46AA64;
+    border: 1px solid white;
+    position: relative;
+}
+
+.rightEdge {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 80px;
+}
+
+.leftEdge {
+
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.right {
+    text-align: right;
+}
+
+.left {
+    text-align: left;
+}
+
+.timetable {
+    position: relative;
+}
+
+.aboutTimetable {
+    margin-top: 10%;
+    font-size: 2rem;
+    line-height: 4rem;
+}
+
+.checkTimetableButton {
+    margin-top: 10%;
+    text-decoration: none;
+    font-size: 1.5rem;
+    width: 19%;
+    letter-spacing: 2px;
+    display: inline-block;
+    border-radius: 27px;
+    text-align: center;
+    padding: 12px 12px;
+    background: #FFFFFF;
+    text-shadow: -1px 0 #96d114, 1px 0 #96d114, 0 -1px #96d114, 0 1px #96d114
+}
+
+.codePhpClass {
+    font-size: 1.2rem;
+    text-align: left;
+    transform: rotate(10deg);
+    line-height: 1.9rem;
+    width: 40%;
+    opacity: 0.4;
+    position: absolute;
+    bottom: 7%;
+    left: 5%;
+}
+
+.access {
+    margin-top: 10%;
+    position: relative;
+}
+
+.titleAccess {
+    margin: 0;
+}
+
+.googlemap {
+    border: 20px solid #ffb52c;
+    border-bottom: 150px solid #ffb52c;
+    border-radius: 25px;
+}
+
+.place {
+    font-size: 2rem;
+}
+
+.address {
+    margin: 0;
+    font-size: 1.3rem;
+}
+
+.placeAddress {
+    text-align: left;
+
+
+}
+
+.accessInformation {
+    display: flex;
+    position: absolute;
+    left: 2%;
+    bottom: 5%;
+    gap: 554px;
+    align-items: flex-end;
+}
+
+
+
+.jumpToGooglemap {
+    text-decoration: none;
+    font-size: 1.5rem;
+    letter-spacing: 2px;
+    display: inline-block;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    text-align: center;
+    padding: 12px 12px;
+    background: #ffb52c;
+    text-shadow: -1px 0 #96d114, 1px 0 #96d114, 0 -1px #96d114, 0 1px #96d114;
+    position: absolute;
+    right: -10px;
+    bottom: -41px;
+}
+
+.sponsor {
+    margin-top: 10%;
+    position: relative;
+}
+
+.codePhpFunction {
+    font-size: 1.2rem;
+    text-align: left;
+    transform: rotate(10deg);
+    line-height: 1.9rem;
+    width: 40%;
+    opacity: 0.3;
+    position: absolute;
+    top: 12%;
+    left: 20%;
+}
+
+.drinkSnack {
+    display: flex;
+    gap: 200px;
+    justify-content: center;
+}
+
+.speaker {
+    margin-top: 10%;
+}
+
+.speakersList {
+    margin-top: 10%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 190px;
+}
+
+footer {
+    margin-top: 10%;
+    margin-bottom: 6%;
+    position: relative;
+}
+
+.footer_bg {
+    width: 104%;
+    position: absolute;
+    left: -2%;
+    bottom: -10%;
+    z-index: -1;
+}
+
+.pastEventsElemaru {
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+}
+
+.pastEvents {
+    text-align: left;
+}
+
+.footer_pnpConferenceKansai2025 {
+    font-size: 5rem;
+    margin: 0;
+}
+
+.jumpToPastEvents {
+    font-size: 1.5rem;
+    margin: 0;
+}
+
+.pastEventsYears {
+    margin-top: 4%;
+    display: flex;
+    gap: 30px;
+    font-size: 1.2rem;
+}
+
+.footer_elemaru {
+    object-fit: contain;
+}
+
+.snsCopylight {
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+.sns {
+    object-fit: contain;
+}
+
+.note {
+    margin: 0;
+    margin-top: 14px;
+    margin-left: 5%;
+}
+
+.copylight {
+    margin-left: 15%;
+    font-size: 1.1rem;
+}

@@ -1,0 +1,40 @@
+.imageContainerStyle {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    width: 100%;
+}
+
+.imageStyle {
+    height: auto;
+    object-fit: contain;
+    flex: 1 0 auto;
+}
+
+.baseSponsor {
+    margin-top: 5%;
+}
+
+.platinum {
+    font-size: 1.5rem;
+}
+
+.gold {
+    font-size: 1.4rem;
+}
+
+.silver {
+    font-size: 1.3rem;
+}
+
+.bronze {
+    font-size: 1.2rem;
+}
+
+.drink {
+    font-size: 1.3rem;
+}
+
+.snack {
+    font-size: 1.3rem;
+}
